@@ -3,10 +3,12 @@ layout: content-style-guide
 permalink: /content-style-guide/plain-language/use-short-sentences
 has-parent: /content-style-guide/plain-language/
 title: Use short sentences
-intro-text: Try to limit each sentence to one subject and verb when possible. 
+intro-text: Try to limit each sentence to one subject and verb. Aim for no more than 25 words per sentence, and fewer words when possible. 
 ---
 
-You can break up long sentences in several ways, including using bulleted lists. You can also start a sentence with a conjunction (and, or, but).  
+Here are 2 good ways to break up long sentences:
+- Use a bulleted list
+- Start a sentence with a conjunction (and, or, so, but). **Note:** Only use simple plain language conjunctions to break up sentences this way. Don't start sentences with formal conjunctive adverbs like "however" or "furthermore."
 
 <div class="do-dont">
 <div class="do-dont__do">
